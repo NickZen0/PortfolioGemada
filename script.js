@@ -16,3 +16,6 @@ function chapadonic(){
 function apre(){
     window.location.href = "apre.html"
 }
+function calcu(){
+    window.location.href = "https://github.com/NickZen0/Geminha-3B-Calculadora-de-Horas"
+}
